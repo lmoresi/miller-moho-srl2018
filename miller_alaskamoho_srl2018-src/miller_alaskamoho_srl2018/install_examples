@@ -1,0 +1,5 @@
+#! /usr/bin/env python
+
+import miller_alaskamoho_srl2018 as mmoho
+
+mmoho.documentation.install_documentation()

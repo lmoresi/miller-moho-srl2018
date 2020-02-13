@@ -1,0 +1,5 @@
+/.ipynb_checkpoints/
+/build/
+/.bash_history
+/.idea/
+/binder-deployment/  # - this is a sub-repo really

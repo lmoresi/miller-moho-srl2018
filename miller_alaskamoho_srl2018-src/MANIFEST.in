@@ -1,0 +1,7 @@
+include miller_alaskamoho_srl2018/*.py
+include miller_alaskamoho_srl2018/documentation/*.py
+include miller_alaskamoho_srl2018/Models/*.npz
+include miller_alaskamoho_srl2018/Notebooks/*ipynb
+recursive_include miller_alaskamoho_srl2018/Notebooks/Figures,
+include miller_alaskamoho_srl2018/Notebooks/ModelConstruction/B*ipynb
+include miller_alaskamoho_srl2018/Notebooks/ModelConstruction/Data/Moho-Alaska/*.txt

@@ -1,0 +1,3 @@
+stripy
+litho1pt0
+numpy

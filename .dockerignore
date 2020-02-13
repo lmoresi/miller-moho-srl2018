@@ -1,0 +1,14 @@
+binder-deployment
+build
+miller_alaskamoho_srl2018-src/dist
+miller_alaskamoho_srl2018-src/miller_alaskamoho_srl2018.egg-info
+
+
+*.ipynb_checkpoints
+*checkpoint.ipynb
+
+miller_alaskamoho_srl2018-src/miller_alaskamoho_srl2018/Models-NotActive
+miller_alaskamoho_srl2018-src/miller_alaskamoho_srl2018/Notebooks/Models-NotActive
+miller_alaskamoho_srl2018-src/miller_alaskamoho_srl2018/Notebooks/Images
+
+# miller_alaskamoho_srl2018-src/miller_alaskamoho_srl2018/Notebooks/ShadedRelief

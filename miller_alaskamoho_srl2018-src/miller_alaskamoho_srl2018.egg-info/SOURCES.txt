@@ -1,0 +1,35 @@
+MANIFEST.in
+README.md
+setup.py
+miller_alaskamoho_srl2018/__init__.py
+miller_alaskamoho_srl2018/__main__.py
+miller_alaskamoho_srl2018.egg-info/PKG-INFO
+miller_alaskamoho_srl2018.egg-info/SOURCES.txt
+miller_alaskamoho_srl2018.egg-info/dependency_links.txt
+miller_alaskamoho_srl2018.egg-info/requires.txt
+miller_alaskamoho_srl2018.egg-info/top_level.txt
+miller_alaskamoho_srl2018/Models/AlaskaHeatFlow.npz
+miller_alaskamoho_srl2018/Models/AlaskaHeatFlowErrs.npz
+miller_alaskamoho_srl2018/Models/AlaskaHeatFlowFineGrid.npz
+miller_alaskamoho_srl2018/Models/AlaskaMoHiErrs-AlaskaMohoFineGrid.npz
+miller_alaskamoho_srl2018/Models/AlaskaMoHiErrs.npz
+miller_alaskamoho_srl2018/Models/AlaskaMoLoErrs-AlaskaMohoFineGrid.npz
+miller_alaskamoho_srl2018/Models/AlaskaMoLoErrs.npz
+miller_alaskamoho_srl2018/Models/AlaskaMoho.npz
+miller_alaskamoho_srl2018/Models/AlaskaMohoErrs-AlaskaMohoFineGrid.npz
+miller_alaskamoho_srl2018/Models/AlaskaMohoErrs.npz
+miller_alaskamoho_srl2018/Notebooks/A0-Index.ipynb
+miller_alaskamoho_srl2018/Notebooks/A1-RawData-ConvertAndSave.ipynb
+miller_alaskamoho_srl2018/Notebooks/A2-RawData-PlotQualityInformation.ipynb
+miller_alaskamoho_srl2018/Notebooks/A3-TriangulatingAndinterpolating.ipynb
+miller_alaskamoho_srl2018/Notebooks/A4-PlottingMohoAndMohoSlope.ipynb
+miller_alaskamoho_srl2018/Notebooks/A5-Interactive3DPlot.ipynb
+miller_alaskamoho_srl2018/Notebooks/A6-ConvertModels2RegularXYZ.ipynb
+miller_alaskamoho_srl2018/Notebooks/Figures/ErrorsAndScores.png
+miller_alaskamoho_srl2018/Notebooks/Figures/MohoSurfaceGradient-ClusteredGrids.png
+miller_alaskamoho_srl2018/Notebooks/ModelConstruction/B1 - Alaska-Moho-Data-Raw-Triangulation.ipynb
+miller_alaskamoho_srl2018/Notebooks/ModelConstruction/B2 - Estimating model predictive capacity.ipynb
+miller_alaskamoho_srl2018/Notebooks/ModelConstruction/B3 - Alaska-Moho-Mapping-To-Improved-Triangulation-Scored.ipynb
+miller_alaskamoho_srl2018/Notebooks/ModelConstruction/B4 - Effect of outliers.ipynb
+miller_alaskamoho_srl2018/Notebooks/ModelConstruction/Data/Moho-Alaska/picks_1999-Apr2018_clean.txt
+miller_alaskamoho_srl2018/documentation/__init__.py
