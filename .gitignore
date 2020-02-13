@@ -3,3 +3,6 @@
 /.bash_history
 /.idea/
 /binder-deployment/  # - this is a sub-repo really
+/miller_alaskamoho_srl2018-src/miller_alaskamoho_srl2018.egg-info/
+/miller_alaskamoho_srl2018-src/dist/
+/miller_alaskamoho_srl2018-src/miller_alaskamoho_srl2018/Notebooks/ModelConstruction/.ipynb_checkpoints/
