@@ -16,11 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v1
       with:
-        python-version: '3.x'
-
-    - name: Install gfortran
-      run: |
-        sudo apt-get install -y gfortran
+        python-version: '3.7'
 
     - name: Install dependencies
       run: |
@@ -33,6 +29,5 @@ jobs:
         TWINE_USERNAME: ${{ secrets.PYPI_USERNAME }}
         TWINE_PASSWORD: ${{ secrets.PYPI_PASSWORD }}
       run: |
-        cd miller_alaskamoho_srl2018-src
-        python setup.py sdist
+        python miller_alaskamoho_srl2018-src/setup.py sdist
         twine upload dist/*
