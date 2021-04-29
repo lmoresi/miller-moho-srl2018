@@ -1,0 +1,14 @@
+name: miller-moho
+channels: 
+    - conda-forge
+    - geo-down-under    
+dependencies:
+    - cartopy 
+    - stripy
+    - litho1pt0 
+    - lavavu
+    - jupyterlab
+    - pip 
+
+
+      

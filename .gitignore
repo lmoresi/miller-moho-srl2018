@@ -6,3 +6,8 @@
 /miller_alaskamoho_srl2018-src/miller_alaskamoho_srl2018.egg-info/
 /miller_alaskamoho_srl2018-src/dist/
 /miller_alaskamoho_srl2018-src/miller_alaskamoho_srl2018/Notebooks/ModelConstruction/.ipynb_checkpoints/
+
+*ipynb_checkpoints
+
+# This appears if the documentation goes awry !
+/path/to/notebooks

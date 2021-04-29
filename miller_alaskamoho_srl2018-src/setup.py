@@ -26,7 +26,7 @@ if __name__ == "__main__":
           author_email      = "louis.moresi@unimelb.edu.au",
           # url               = "https://github.com/University-of-Melbourne-Geodynamics/litho1pt0",
           # download_url      = "",
-          version           = "1.2.2",
+          version           = "1.2.3",
           description       = "Python interface to Miller SRL 2018 Alaska Moho model - requires stripy, numpy",
           long_description=long_description,
           long_description_content_type='text/markdown',

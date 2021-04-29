@@ -39,11 +39,11 @@ _HeatFlowErr_FILE = pkg_resources.resource_filename('miller_alaskamoho_srl2018',
 _HeatFlowGrid_FILE = pkg_resources.resource_filename('miller_alaskamoho_srl2018', 'Models/AlaskaHeatFlowFineGrid.npz')
 
 
-MohoRaw    = _np.load(_MohoRaw_FILE)['alaska_moho']
-MohoErr    = _np.load(_MohoErr_FILE)['alaska_moho']
-MohoGrid   = _np.load(_MohoGrid_FILE)
-_MohoGridL = _np.load(_MohoGridL_FILE)
-_MohoGridH = _np.load(_MohoGridH_FILE)
+MohoRaw    = _np.load(_MohoRaw_FILE, allow_pickle=True)['alaska_moho']
+MohoErr    = _np.load(_MohoErr_FILE, allow_pickle=True)['alaska_moho']
+MohoGrid   = _np.load(_MohoGrid_FILE, allow_pickle=True)
+_MohoGridL = _np.load(_MohoGridL_FILE, allow_pickle=True)
+_MohoGridH = _np.load(_MohoGridH_FILE, allow_pickle=True)
 
 _HeatFlowRaw  = _np.load(_HeatFlowRaw_FILE)['alaska_hf']
 _HeatFlowErr  = _np.load(_HeatFlowErr_FILE)['alaska_heat_flow']
